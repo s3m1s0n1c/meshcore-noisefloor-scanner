@@ -1,6 +1,6 @@
 # 📡 MeshCore Noise Floor Scanner
 
-Scan LoRa frequencies using the **MeshCore Companion protocol** for finding which settings work better for your area.
+Scan LoRa frequencies using the **MeshCore Companion protocol** for finding which settings/presets work better for your area with the lowest noisefloor.
 
 Automatically generate:
 

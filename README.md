@@ -1,7 +1,8 @@
 # 📡 MeshCore Noise Floor Scanner
 
-Scan LoRa frequencies using the **MeshCore Companion protocol** and
-automatically generate:
+Scan LoRa frequencies using the **MeshCore Companion protocol** for finding which settings work better for your area.
+
+Automatically generate:
 
 -   📄 CSV output (per-frequency noise statistics)
 -   📊 PNG graph (Noise vs Frequency)

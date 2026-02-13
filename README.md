@@ -71,17 +71,29 @@ python3 noisefloor.py   --usb /dev/ttyUSB0   --bw-khz 125   --sf 11   --cr 8
   Argument              Description
   --------------------- -----------------------------------------
   `--usb`               USB serial device (e.g. `/dev/ttyUSB0`)
+  
   `--tcp`               TCP Companion endpoint (`HOST:PORT`)
+  
   `--start-mhz`         Start frequency (default `915.0`)
+  
   `--end-mhz`           End frequency (default `928.0`)
+  
   `--step-mhz`          Frequency step size
+  
   `--dwell-min`         Minutes to sample per frequency
+  
   `--sample-interval`   Seconds between samples
+  
   `--bw-khz`            Bandwidth (e.g. `125`, `250`)
+  
   `--sf`                Spreading Factor
+  
   `--cr`                Coding Rate
+  
   `--settle-s`          Delay after changing frequency
+  
   `--out`               Custom output filename
+  
   `--debug`             Show raw Companion protocol frames
 
 ------------------------------------------------------------------------
